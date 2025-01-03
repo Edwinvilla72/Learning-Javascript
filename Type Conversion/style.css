@@ -1,0 +1,11 @@
+body {
+    font-family:monospace;
+    font-size: 1.25em;
+    h1 {
+        /*HOW TO CENTER A DIV*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
